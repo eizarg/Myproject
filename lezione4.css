@@ -1,0 +1,76 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.nero{
+
+    background-color: rgba(0, 0, 0, 0.368);
+    text-align: center;
+    height: 900px;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+#foto{
+    width: 250px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+#titolo{
+    text-align: center;
+    color: greenyellow;
+    margin-top: 0px;
+}
+
+#prova{
+    background-color: green;
+    height: 40px;
+    margin: 0px 50px 0px 50px;
+    
+}
+
+.bottoni{
+    line-height: 40px;
+}
+.bianca{
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+.mono{
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+#arancio{
+    background-color: orange;
+       padding: 10px;
+    margin:0px 700px 0px 50px;
+    border-radius: 7px;
+    border: 1px solid black;
+
+}
+#verde{
+    background-color: greenyellow;
+       padding: 10px;
+    margin:0px 400px 0px 50px;
+    border-radius: 7px;
+    border: 1px solid black;
+
+}
+#rosso{
+    background-color:red;
+       padding: 10px;
+    margin:0px 850px 0px 50px;
+    border-radius: 7px;
+    border: 1px solid black;
+
+}
